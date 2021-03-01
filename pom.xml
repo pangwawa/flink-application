@@ -9,5 +9,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>streaming-application</module>
+        <module>batch-application</module>
     </modules>
 </project>

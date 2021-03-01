@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package fun.codenow.flink.streaming;
+package fun.codenow.flink.batch;
 
 import org.apache.flink.api.java.ExecutionEnvironment;
 
